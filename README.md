@@ -1,4 +1,13 @@
 # 🔐 IoT Motion-Based Security System
+## 📋 Intern Details
+
+- **👨‍💼 Name:** Shaik Javed Ahmed  
+- **🎓 Intern ID:** CT04DF594  
+- **🏢 Company:** CodTech IT Solutions  
+- **🌐 Domain:** Internet of Things  
+- **📅 Internship Duration:** 4 Weeks  
+- **🧑‍🏫 Mentor:** Neela Santhosh  
+
 
 This project creates a security system that detects motion using a PIR sensor, captures an image with ESP32-CAM, and sends an alert via Telegram.
 
@@ -13,6 +22,9 @@ This project creates a security system that detects motion using a PIR sensor, c
 1. PIR sensor detects motion
 2. ESP32-CAM captures a photo
 3. Sends the image to a Telegram bot in real-time
+
+
+## circuit diagram
 
 ## 🖥️ Circuit Connections
 
