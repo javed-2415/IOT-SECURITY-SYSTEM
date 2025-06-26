@@ -31,4 +31,5 @@ This project creates a security system that detects motion using a PIR sensor, c
 
 ```cpp
 // Full code is available in the ino file
-![Image](https://github.com/user-attachments/assets/f088dcd5-0319-4e64-bc30-6d02657ede16)
+
+(https://github.com/user-attachments/assets/f088dcd5-0319-4e64-bc30-6d02657ede16)
