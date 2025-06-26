@@ -25,6 +25,7 @@ This project creates a security system that detects motion using a PIR sensor, c
 
 
 ## circuit diagram
+![Image](https://github.com/user-attachments/assets/352da163-fac7-4a9a-b56c-3e62bbea3015)
 
 ## 🖥️ Circuit Connections
 
